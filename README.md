@@ -1,7 +1,8 @@
+![logo](https://github.com/Talal-Hassan-Programmer/Talal-Hassan-Programmer/blob/main/MY%20BANNER.jpg)
 <h1 align="center">Hi 👋, I'm Talal Hassan</h1>
 <h3 align="center">I am a new Programmer.</h3>
 
-<img anign="right" alt="coding" width="400" src="[https://tse1.mm.bing.net/th?id=OIG2.EVN_PNmX.Dj6ElwWE9wl&pid=ImgGn](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
