@@ -1,4 +1,5 @@
-![logo](https://github.com/Talal-Hassan-Programmer/Talal-Hassan-Programmer/blob/main/MY%20BANNER.jpg)
+![banner](https://github.com/Talal-Hassan-Programmer/Talal-Hassan-Programmer/blob/main/Talal%20Hassan.png)
+
 
 <h1 align="center">Hi 👋, I'm Talal Hassan</h1>
 <h3 align="center">Aspiring Programmer | Cybersecurity Enthusiast | Future Developer</h3>
