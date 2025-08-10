@@ -73,5 +73,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talal-hassan-programmer&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  <a href="https://github.com/Talal-Hassan-Programmer">
+    <img src="https://komarev.com/ghpvc/?username=Talal-Hassan-Programmer&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  </a>
 </p>
+
